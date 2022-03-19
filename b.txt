@@ -1,4 +1,4 @@
-function b() {
-	//b.txt ban dau
-	//tao conflic
+function b ne() {
+	// Minh co tinh tao conflic ne
+	// ban fix di
 }
