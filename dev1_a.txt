@@ -1,0 +1,4 @@
+function dev1 () {
+	//code của dev1
+	//this is code
+}

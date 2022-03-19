@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+function b() {
+	//b.txt ban dau
+	//tao conflic
+	//............
+}
+=======
+function b ne() {
+	// Minh co tinh tao conflic ne
+	// ban fix di
+}
+>>>>>>> 93841372f024489e4dfa9209d82430553853ac81
