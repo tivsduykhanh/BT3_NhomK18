@@ -1,0 +1,4 @@
+function b() {
+	//b.txt ban dau
+	//tao conflic
+}
