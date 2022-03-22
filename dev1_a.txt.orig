@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+function dev1 () {
+	//code của dev1
+	//this is code
+}
+=======
+function dev1_thaydoi () {
+  //tao conflic merge
+}
+>>>>>>> 0e081ffeefb9c6145da093e68562d82c736eb157
