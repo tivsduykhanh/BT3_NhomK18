@@ -1,4 +1,4 @@
-function dev1_Themsanpham() {
-	//to do code dev1
-	//create san pham
+function main() {
+  //aaaaaaaaaaaaaaaa
+  //bbbbbbbbbbbbbbbb
 }
