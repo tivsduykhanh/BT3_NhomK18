@@ -1,4 +1,5 @@
-function baitestconflic() {
-	//test conflic ne anh em
-	// da bi conflic
+function baitestconflic_1111() {
+	//test conflic aaaaaaaa ne anh em
+	// da bi aaaaaaa conflic
+	
 }
