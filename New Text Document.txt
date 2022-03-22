@@ -1,4 +1,9 @@
 function conflic_2() {
 	//test conflic bbbbbbbbb ne anh em
 	// da bi bbbbbbbbbb conflic
+
+	// Custom de commit
+
+	// da bi conflic
+	//test conflic aaaaaaaa ne anh em
 }
